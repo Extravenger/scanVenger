@@ -3,7 +3,7 @@
 A tool built along the OSEP course, the idea came from when attempting to find hosts and open ports inside an internal network, but from windows machine. 
 
 > [!CAUTION]
-> There might be false positives regarding hostname resolving on machines that does not exist on the same domain.
+> There might be false positives regarding hostname resolving on machines that does not exist on the current domain.
 
 ## Features
 
