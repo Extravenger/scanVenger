@@ -2,7 +2,7 @@
 
 A tool built along the OSEP course, the idea came from when attempting to find hosts and open ports inside an internal network, but from windows machine. 
 
-> [!WARNING]
+> [!CAUTION]
 > There might be false positives regarding hostnames that does not exist on the same domain.
 
 ## Features
