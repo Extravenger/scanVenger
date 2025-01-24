@@ -1,6 +1,6 @@
 # Host and Port Discovery Tool
 
-A powerful and flexible C# tool for discovering live hosts and scanning open ports in a network. Designed with penetration testers and network administrators in mind, this tool provides detailed insights into the network environment, including hostnames, operating systems, and open ports.
+A tool built along the OSEP course, the idea came from when attempting to find open ports inside the internal network, but from windows machines.
 
 ---
 
