@@ -19,3 +19,10 @@ A tool built along the OSEP course, the idea came from when attempting to find o
     top20: Common ports (21, 22, 23, 25, 53, 80, 110, 111, 135, 139, 143, 443, 445, 993, 995, 1723, 3306, 3389, 5900, 8080).
 
     custom: Specify a custom list or range of ports (e.g., 80,443,8080 or 1000-2000).
+
+
+## Video Sample
+
+https://github.com/user-attachments/assets/d593f359-db7e-48e1-a4a3-a54d4fef3fad
+
+
