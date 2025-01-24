@@ -4,7 +4,7 @@ A tool built along the OSEP course, the idea came from when attempting to find h
 
 ## Features
 
-- **Host Discovery**: Identify live hosts in a subnet using ICMP (ping).
+- **Host Discovery**: Identify live hosts in a subnet.
 - **Port Scanning**: Scan for open ports on discovered hosts.
 - **FQDN Resolution**: Resolve IP addresses to Fully Qualified Domain Names (FQDNs).
 - **OS Detection**: Detect the operating system of each host using TTL analysis.
