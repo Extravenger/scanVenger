@@ -2,8 +2,6 @@
 
 A powerful and flexible C# tool for discovering live hosts and scanning open ports in a network. Designed with penetration testers and network administrators in mind, this tool provides detailed insights into the network environment, including hostnames, operating systems, and open ports.
 
-![Tool Demo](https://via.placeholder.com/800x400.png?text=Tool+Demo+Placeholder) <!-- Replace with an actual screenshot or GIF -->
-
 ---
 
 ## Features
