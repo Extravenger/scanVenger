@@ -1,6 +1,6 @@
 # Host and Port Discovery Tool
 
-A tool built along the OSEP course, the idea came from when attempting to find hosts and open ports inside an internal network, but from windows machine. 
+A tool inspired by the OSEP course, designed to identify hosts and open ports within an internal network from a Windows machine. 
 
 > [!CAUTION]
 > There might be false positives regarding hostname resolving on machines that does not exist on the current domain you are scanning from.
