@@ -2,8 +2,8 @@
 
 A tool built along the OSEP course, the idea came from when attempting to find hosts and open ports inside an internal network, but from windows machine. 
 
-[!WARNING]
-- Note: there might be false positives regarding hostnames that not exist on the same domain.
+> [!WARNING]
+> There might be false positives regarding hostnames that not exist on the same domain.
 
 ## Features
 
