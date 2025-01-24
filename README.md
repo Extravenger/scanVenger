@@ -2,8 +2,6 @@
 
 A tool built along the OSEP course, the idea came from when attempting to find open ports inside the internal network, but from windows machines.
 
----
-
 ## Features
 
 - **Host Discovery**: Identify live hosts in a subnet using ICMP (ping).
