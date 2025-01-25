@@ -3,7 +3,7 @@
 A tool inspired by the OSEP course, designed to identify hosts and open ports within an internal network from a Windows machine. 
 
 > [!CAUTION]
-> There may be false positives in hostname resolution for machines that do not exist within the domain you are currently scanning.
+> There may be false positives in hostname resolution for machines that do not exist within the domain you are currently scanning from.
 
 ## Features
 
