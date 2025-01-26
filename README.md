@@ -5,7 +5,7 @@ A tool inspired by the OSEP course, designed to identify hosts and open ports wi
 > [!CAUTION]
 > There may be false positives in hostname resolution for machines that do not exist within the domain you are currently scanning from.
 
-## Features
+##  Features
 
 - **Host Discovery**: Identify live hosts in a subnet.
 - **Port Scanning**: Scan for open ports on discovered hosts.
@@ -13,7 +13,7 @@ A tool inspired by the OSEP course, designed to identify hosts and open ports wi
 - **OS Detection**: Detect the operating system of each host using TTL analysis.
 - **Customizable Port Sets**: Predefined port sets for common services (e.g., web, admin, top 20 ports).
 
-## Available Port Sets
+## 🖧 Available Port Sets
 
     web: Ports 80, 443, 3000, 8080, 8081, 8443.
 
@@ -24,7 +24,7 @@ A tool inspired by the OSEP course, designed to identify hosts and open ports wi
     custom: Specify a custom list or range of ports (e.g., 80,443,8080 or 1000-2000).
 
 
-## Video Sample
+## 🎥 Video Sample
 
 https://github.com/user-attachments/assets/0c38f23f-e96f-4ccd-a805-129bbb733fdd
 
