@@ -5,7 +5,7 @@ A tool inspired by the OSEP course, designed to identify hosts and open ports wi
 > [!CAUTION]
 > There may be false positives in hostname resolution for machines that do not exist within the domain you are currently scanning from.
 
-## ✨ Features
+## 🚀 Features
 
 - **Host Discovery**: Identify live hosts in a subnet.
 - **Port Scanning**: Scan for open ports on discovered hosts.
