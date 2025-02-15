@@ -28,6 +28,8 @@ A tool inspired by the OSEP course, designed to identify hosts and open ports wi
 
 ![image](https://github.com/user-attachments/assets/30372ca8-a95b-4952-8fc6-d002892a0dc0)
 
+## Disclaimer
 
+This tool is designed to be used only for authorized purposes related to managing and interacting with MSSQL databases. Unauthorized use, including access without proper authorization, is strictly prohibited and may result in legal or administrative action. Always ensure compliance with applicable laws and regulations.
 
 
