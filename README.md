@@ -24,9 +24,10 @@ A tool inspired by the OSEP course, designed to identify hosts and open ports wi
     custom: Specify a custom list or range of ports (e.g., 80,443,8080 or 1000-2000).
 
 
-## Video Sample
+## Example Output of Host Discovery Scan
 
-https://github.com/user-attachments/assets/0c38f23f-e96f-4ccd-a805-129bbb733fdd
+![image](https://github.com/user-attachments/assets/30372ca8-a95b-4952-8fc6-d002892a0dc0)
+
 
 
 
